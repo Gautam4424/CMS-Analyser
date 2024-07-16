@@ -5,5 +5,7 @@ Analyze website CMS using Python and Selenium: Automate website scraping, detect
 Steps To run the code  : 
 
 1.pip install -r requirements.txt
+
 2.Create the list of Websites save it as a test.txt
-3. 
+
+3. Run the code 
